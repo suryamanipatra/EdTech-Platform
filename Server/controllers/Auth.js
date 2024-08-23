@@ -154,8 +154,6 @@ exports.signUp = async(req,res) => {
 
 //Login
 
-
-
 exports.login = async (req,res) =>{
     try {
         // get data from req ki body
